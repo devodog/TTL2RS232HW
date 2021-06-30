@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2021-06-30T18:42:37Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.6.2"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "ttl2rs232"
+        },
+        "Owner": "Dag Kvaavik <dag@kvaavik.com>",
+        "Size": {
+            "X": 32.69,
+            "Y": 38.09
+        }
+    }
+}
