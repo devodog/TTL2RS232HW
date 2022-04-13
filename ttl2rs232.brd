@@ -3,7 +3,7 @@
 <eagle version="9.6.2">
 <drawing>
 <settings>
-<setting alwaysvectorfont="yes"/>
+<setting alwaysvectorfont="no"/>
 <setting verticaltext="up"/>
 </settings>
 <grid distance="50" unitdist="mil" unit="mil" style="lines" multiple="1" display="no" altdistance="5" altunitdist="mil" altunit="mil"/>
@@ -1643,15 +1643,15 @@ design rules under a new name.</description>
 </element>
 <element name="R1" library="resistor" package="0207/10" value="10K" x="10.16" y="7.62" smashed="yes" rot="R90">
 <attribute name="NAME" x="8.636" y="4.572" size="1.27" layer="25" ratio="10" rot="R90"/>
-<attribute name="VALUE" x="10.795" y="6.6294" size="1.27" layer="27" ratio="10" rot="R90"/>
+<attribute name="VALUE" x="10.795" y="7.8994" size="1.27" layer="27" ratio="10" rot="R90"/>
 </element>
 <element name="R2" library="resistor" package="0207/10" value="10K" x="24.13" y="10.16" smashed="yes">
-<attribute name="NAME" x="21.082" y="11.684" size="1.27" layer="25" ratio="10"/>
+<attribute name="NAME" x="23.622" y="11.684" size="1.27" layer="25" ratio="10"/>
 <attribute name="VALUE" x="23.1394" y="9.525" size="1.27" layer="27" ratio="10"/>
 </element>
 <element name="R3" library="resistor" package="0207/10" value="8.2K" x="6.35" y="7.62" smashed="yes" rot="R90">
 <attribute name="NAME" x="4.826" y="4.572" size="1.27" layer="25" ratio="10" rot="R90"/>
-<attribute name="VALUE" x="6.985" y="5.3594" size="1.27" layer="27" ratio="10" rot="R90"/>
+<attribute name="VALUE" x="6.985" y="6.6294" size="1.27" layer="27" ratio="10" rot="R90"/>
 </element>
 <element name="R4" library="resistor" package="0207/10" value="10K" x="24.13" y="20.32" smashed="yes" rot="R180">
 <attribute name="NAME" x="27.178" y="18.796" size="1.27" layer="25" ratio="10" rot="R180"/>
@@ -1680,7 +1680,7 @@ design rules under a new name.</description>
 <element name="Q3" library="transistor-npn" library_urn="urn:adsk.eagle:library:398" package="TO92-EBC" package3d_urn="urn:adsk.eagle:package:28989/2" value="BC548" x="21.59" y="16.51" smashed="yes">
 <attribute name="NAME" x="19.05" y="18.288" size="1.27" layer="25" ratio="10"/>
 <attribute name="POPULARITY" value="0" x="21.59" y="16.51" size="1.778" layer="27" display="off"/>
-<attribute name="VALUE" x="19.05" y="11.938" size="1.27" layer="27" ratio="10"/>
+<attribute name="VALUE" x="15.24" y="11.938" size="1.27" layer="27" ratio="10"/>
 </element>
 <element name="Q4" library="transistor-pnp" library_urn="urn:adsk.eagle:library:399" package="TO92-EBC" package3d_urn="urn:adsk.eagle:package:29218/2" value="BC556" x="12.7" y="21.59" smashed="yes">
 <attribute name="NAME" x="10.16" y="23.368" size="1.27" layer="25" ratio="10"/>
